@@ -46,9 +46,11 @@ section h2 {
     align-items: center;
 }
 
-.logo h1 {
+.logo-text {
     font-size: 1.5rem;
     margin: 0;
+    color: var(--primary-color);
+    font-weight: bold;
 }
 
 .nav-links {
@@ -87,7 +89,7 @@ section h2 {
 /* Hero Section */
 .hero {
     padding: 8rem 2rem 4rem;
-    background: linear-gradient(rgba(26, 35, 126, 0.9), rgba(26, 35, 126, 0.9)), url('locksmith-bg.jpg');
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
     background-size: cover;
     background-position: center;
     color: var(--white);
@@ -258,6 +260,25 @@ section h2 {
 
 .area-list li:last-child {
     border-bottom: none;
+}
+
+.service-area-cta {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: var(--accent-color);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.service-area-cta p {
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.service-area-cta a {
+    color: var(--primary-color);
+    font-weight: bold;
+    text-decoration: none;
 }
 
 /* Contact Section */
