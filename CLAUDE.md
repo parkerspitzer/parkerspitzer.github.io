@@ -61,7 +61,7 @@ git push origin main
 
 ## Business Information
 
-- Phone: 605-624-OOPS (6677) / 605-624-6677
+- Phone: 605-624-6677
 - Email: dakotalockandkey@gmail.com
 - Location: Vermillion, SD
 - Service Area: 40-mile radius including Yankton, Viborg, Centerville, Elk Point, Wakonda, Volin, Gayville
